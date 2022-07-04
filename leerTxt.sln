@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leerTxt", "Txtejemplo1\leerTxt.csproj", "{2037FAFA-FC76-4DE9-8577-7A1F804D4EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2037FAFA-FC76-4DE9-8577-7A1F804D4EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2037FAFA-FC76-4DE9-8577-7A1F804D4EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2037FAFA-FC76-4DE9-8577-7A1F804D4EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2037FAFA-FC76-4DE9-8577-7A1F804D4EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C7B859-192C-4899-A6E9-5C1EE951333F}
+	EndGlobalSection
+EndGlobal

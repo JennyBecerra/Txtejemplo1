@@ -1,0 +1,14 @@
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.exe
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.deps.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.runtimeconfig.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.runtimeconfig.dev.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.dll
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\Txtejemplo1.pdb
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.csproj.AssemblyReference.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.AssemblyInfoInputs.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.AssemblyInfo.cs
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.dll
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.pdb
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\Txtejemplo1.genruntimeconfig.cache

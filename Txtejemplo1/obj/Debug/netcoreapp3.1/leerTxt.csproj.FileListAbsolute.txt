@@ -1,0 +1,14 @@
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.exe
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.deps.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.runtimeconfig.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.runtimeconfig.dev.json
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.dll
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\bin\Debug\netcoreapp3.1\leerTxt.pdb
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.csproj.AssemblyReference.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.AssemblyInfoInputs.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.AssemblyInfo.cs
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.csproj.CoreCompileInputs.cache
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.dll
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.pdb
+C:\Users\jenni\source\repos\Txtejemplo1\Txtejemplo1\obj\Debug\netcoreapp3.1\leerTxt.genruntimeconfig.cache

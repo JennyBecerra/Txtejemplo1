@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Txtejemplo1/1.0.0": {
+        "runtime": {
+          "Txtejemplo1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Txtejemplo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
